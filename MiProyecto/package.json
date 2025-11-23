@@ -1,5 +1,5 @@
 {
-  "name": "proyecto",
+  "name": "miproyecto",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,12 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "npm:rolldown-vite@7.1.14"
-  },
-  "overrides": {
-    "vite": "npm:rolldown-vite@7.1.14"
+    "vite": "^7.2.4"
   },
   "dependencies": {
-    "@supabase/supabase-js": "^2.80.0"
+    "@supabase/supabase-js": "^2.84.0"
   }
 }
